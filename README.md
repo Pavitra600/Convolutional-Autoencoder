@@ -157,7 +157,7 @@ visualize_denoising(model, test_loader)
 ### Original vs Noisy Vs Reconstructed Image
 
 <img width="791" height="546" alt="image" src="https://github.com/Pavitra600/Convolutional-Autoencoder/blob/2bd4e482a5b09fdc9890df2e17b8ed294bfd5dc4/org.jpeg" />
-
+<img width="791" height="546" alt="image" src="https://github.com/Pavitra600/Convolutional-Autoencoder/blob/7aaba8c7b755870b6d8b43f49006138fe8d8c617/Screenshot%202026-03-16%20084402.png" />
 
 
 ## RESULT
